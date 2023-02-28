@@ -4,12 +4,12 @@ Working code for ECE243 Lab 2 (Winter 2023) at the University of Toronto. The go
 ## Part 2
 Part 2 counts the longest consecutive 1s in a word for an array of data. For example, for the following array:
 ```assembly
-TEST_NUM: .word 0x103fe00f
+TEST_NUM: .word     0x103fe00f
           .word	0x1022fb03
           .word	0x7048453e
           .word	0xed315d13
           .word	0x5e17aa47
-          .word 0x186b4aa8
+          .word     0x186b4aa8
           .word	0xc3c859a4
           .word	0x2ce8aa3c
           .word	0xe0f63f64
@@ -25,13 +25,13 @@ This corresponds to the first word: ```0x103fe00f```
 ## Part 3
 Part 3 counts the longest consecutive 1s, 0s, and alternating 1s and 0s in a word for an array of data. For the following array:
 ```assembly
-TEST_NUM:		.word	0xaaaaaaaa
-            .word 0x103fe00f
+TEST_NUM:	  .word	0xaaaaaaaa
+            .word   0x103fe00f
             .word	0x1022fb03
             .word	0x7048453e
             .word	0xed315d13
             .word	0x5e17aa47
-            .word 0x186b4aa8
+            .word   0x186b4aa8
             .word	0xc3c859a4
             .word	0x2ce8aa3c
             .word	0xe0f63f64
