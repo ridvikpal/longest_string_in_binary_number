@@ -1,4 +1,5 @@
 # Longest String in Binary Number
+## IT IS AN ACADEMIC OFFENSE TO COPY CODE. THIS IS SIMPLY FOR REFERENCE.
 Working code for ECE243 Lab 2 (Winter 2023) at the University of Toronto. The goal is to count the longest consecutive string of 1s, 0s, and alternating 1s and 0s in a word (32 bits) of data. All code is written and debugged in ARM Assembly. To simulate the code, upload the code and compile using the ARMv7 [CPUlator online tool](https://cpulator.01xz.net/?sys=arm-de1soc "CPUlator"). See the included lab handout for more information.
 
 ## Part 2
